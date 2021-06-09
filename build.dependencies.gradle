@@ -22,5 +22,9 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.2.0'
 
     implementation 'com.acmerobotics.dashboard:dashboard:0.4.2'
+    implementation 'com.acmerobotics.dashboard:dashboard:0.4.0'
+    implementation 'com.spartronics4915.lib:ftc265:2.1.9'
+    implementation 'org.ftclib.ftclib:core:1.2.0'
+    implementation 'org.ftclib.ftclib:vision:1.2.0'
 }
 
